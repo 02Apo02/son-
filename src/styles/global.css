@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-image: url('https://images.unsplash.com/photo-1447433819943-74a20887a3f7');
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
